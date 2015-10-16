@@ -177,7 +177,7 @@
                 <file name="src/config/Constant.js"/>
                 <file name="src/element/BallSprite.js"/>
                 <file name="src/element/FoodBall.js"/>
-                <file name="src/element/FoodManager.js"/>
+                <file name="src/element/BallManager.js"/>
                 <file name="src/mainMenu/Layer/MMBackgroundLayer.js"/>
                 <file name="src/mainMenu/Layer/MMTouchLayer.js"/>
                 <file name="src/mainMenu/Scene/MainMenu.js"/>
