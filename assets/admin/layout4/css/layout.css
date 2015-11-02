@@ -854,8 +854,9 @@ Page sidebar
 }
 .page-sidebar.navbar-collapse,
 .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover.navbar-collapse {
-  padding: 0;
+  padding: 10px 0px;
   box-shadow: none;
+  margin-top:10px;
 }
 .page-sidebar .page-sidebar-menu,
 .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu {
